@@ -1,22 +1,22 @@
 {
-  "transactions": {
-    "1": {
+  "transactions": [
+    {
       "id": "1",
       "date": "26.10.2019",
       "amount": "100",
       "type": "success"
     },
-    "2": {
+    {
       "id": "2",
       "date": "26.10.2019",
       "amount": "200",
       "type": "error"
     },
-    "3": {
+    {
       "id": "3",
       "date": "26.10.2019",
       "amount": "300",
       "type": "processing"
     }
-  }
+  ]
 }
